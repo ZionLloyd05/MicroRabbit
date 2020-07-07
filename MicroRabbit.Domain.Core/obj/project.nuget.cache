@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jpxqZqOLXQCRMOXvVISaA4fgUdDFcHlXlNtlQGEdqflvQnlQYOI0gpUthJ3ZXu6H8TjcJJRSapcGBDMp1RzYRA==",
+  "dgSpecHash": "KJaVcr0zn7KnCBtpukK8NJNFRA+yAdx8ZryHx4Id9pt4B6r06bPqNKnzNb9Y+uRl7MIeO768dT6pGZbzpOpOIQ==",
   "success": true,
   "projectFilePath": "C:\\Work\\Courses\\Microservices\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
