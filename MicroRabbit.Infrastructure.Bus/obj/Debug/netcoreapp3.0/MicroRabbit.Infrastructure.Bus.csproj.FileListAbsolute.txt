@@ -1,0 +1,12 @@
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.0\MicroRabbit.Infrastructure.Bus.deps.json
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.0\MicroRabbit.Infrastructure.Bus.dll
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.dll
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.pdb
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infrastructure.Bus.csprojAssemblyReference.cache
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infrastructure.Bus.AssemblyInfoInputs.cache
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infrastructure.Bus.AssemblyInfo.cs
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infrastructure.Bus.csproj.CopyComplete
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.0\MicroRabbit.Infrastructure.Bus.pdb
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infrastructure.Bus.csproj.CoreCompileInputs.cache
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infrastructure.Bus.dll
+C:\Work\Courses\Microservices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.0\MicroRabbit.Infrastructure.Bus.pdb
