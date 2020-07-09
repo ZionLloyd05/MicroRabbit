@@ -3227,6 +3227,7 @@
     ".NETCoreApp,Version=v2.2": [
       "MediatR >= 7.0.0",
       "MicroRabbit.Domain.Core >= 1.0.0",
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Newtonsoft.Json >= 12.0.3",
       "RabbitMQ.Client >= 5.1.2"
@@ -3281,6 +3282,10 @@
           "MediatR": {
             "target": "Package",
             "version": "[7.0.0, )"
+          },
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[2.2.0, )"
           },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
